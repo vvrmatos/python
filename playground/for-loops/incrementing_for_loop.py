@@ -5,6 +5,7 @@ def incremental_for_loop(start, step):
         yield current
         current += step
 
+
 # Example usage:
 start = int(input("Enter the start number: "))
 step = int(input("Enter the step size: "))
